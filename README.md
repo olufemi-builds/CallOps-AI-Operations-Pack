@@ -91,14 +91,11 @@ This repository includes:
 - VIP Support output
 
 ---
+## 🎥 Demo Video
 
-## Demo Video
+### ▶ Click below to watch the live demo
 
-Add your demo video here:
-
-[## 🎥 Demo Video
-
-👉 Watch the live demo: [CallOps AI Operations Pack](https://youtu.be/qxK3L4WaC7k)]
+👉 [CallOps AI Operations Pack – Full Demo](https://youtu.be/qxK3L4WaC7k)
 
 ---
 
