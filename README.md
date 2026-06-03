@@ -35,7 +35,7 @@ CallOps AI Operations Pack solves this by providing a conversational AI interfac
 
 ---
 
-`## Architecture
+## Architecture
 
 ```text
 User Input
@@ -52,8 +52,10 @@ Extract KPI Metrics
    ↓
 Return Operational Report to User
 
+Technologies Used
 ---
-## Technologies Used
+
+# ⚠️ IMPORTANT
 
 - Microsoft Copilot Studio
 - Power Automate
