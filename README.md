@@ -96,7 +96,9 @@ This repository includes:
 
 Add your demo video here:
 
-👉 [https://youtu.be/qxK3L4WaC7k?si=ScdNMVHunNxXao5N]
+[## 🎥 Demo Video
+
+👉 Watch the live demo: [CallOps AI Operations Pack](https://youtu.be/qxK3L4WaC7k)]
 
 ---
 
