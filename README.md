@@ -1,12 +1,14 @@
 # CallOps AI Operations Pack
 
+---
+
 ## Overview
 
 CallOps AI Operations Pack is an AI-powered operational assistant built using Microsoft Copilot Studio and Power Automate.
 
 The solution enables call center supervisors and operations managers to retrieve queue-specific KPI metrics through natural language conversations.
 
-Users can request operational information for queues such as Billing, Claims, Refunds, Sales, Technical Support, VIP Support, and New Accounts, and receive instant KPI reports.
+Users can request operational information for queues such as Billing, Claims, Refunds, Sales, Technical Support, VIP Support, and New Accounts and receive instant KPI reports.
 
 ---
 
@@ -22,14 +24,14 @@ CallOps AI Operations Pack solves this by providing a conversational AI interfac
 
 ## Features
 
-- Conversational KPI retrieval
-- Queue-specific reporting
-- Dynamic Excel data lookup
-- Operational status reporting
-- Power Automate workflow integration
-- Microsoft Copilot Studio agent experience
-- Natural language interaction
-- Real-time operational insights
+- Conversational KPI retrieval  
+- Queue-specific reporting  
+- Dynamic Excel data lookup  
+- Operational status reporting  
+- Power Automate workflow integration  
+- Microsoft Copilot Studio agent experience  
+- Natural language interaction  
+- Real-time operational insights  
 
 ---
 
