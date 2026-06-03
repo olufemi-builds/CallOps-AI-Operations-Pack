@@ -49,3 +49,153 @@ Filter Queue Record
 Extract KPI Metrics
    ↓
 Return Operational Report to User
+
+## Technologies Used
+
+- Microsoft Copilot Studio
+- Power Automate
+- Excel Online (Business)
+- OneDrive for Business
+- Microsoft 365
+- Power Fx
+
+---
+
+## Dataset
+
+The KPI dataset is stored in the `/data` folder.
+
+It contains:
+
+- Queue Name
+- Wait Time
+- CSAT
+- Abandonment Rate
+- Available Agents
+- Daily Call Volume
+- Status
+
+---
+
+## Screenshots
+
+This repository includes:
+
+- Copilot Studio agent flow
+- Power Automate workflow
+- Excel KPI dataset
+- Billing queue output
+- Claims queue output
+- VIP Support output
+
+---
+
+## Demo Video
+
+Add your demo video here:
+
+👉 [Insert link]
+
+---
+
+## Solution Components
+
+### Copilot Studio
+- Conversational interface
+- User input capture
+- Queue selection
+- KPI response display
+
+### Power Automate
+- Receives queue name
+- Reads Excel dataset
+- Filters matching record
+- Returns KPI values
+
+### Excel Online
+- Stores operational KPI dataset
+- Provides structured data for automation
+
+---
+
+## Setup Instructions
+
+### Requirements
+- Microsoft Copilot Studio
+- Power Automate
+- Excel Online (Business)
+- Microsoft 365
+- OneDrive
+
+---
+
+### Steps
+
+1. Create KPI dataset in Excel
+2. Store file in OneDrive
+3. Build Copilot Studio agent
+4. Create Power Automate flow
+5. Add:
+   - List rows in table
+   - Filter array
+   - Compose
+   - Return response
+6. Connect flow to Copilot topic
+7. Publish agent
+8. Test with queues like Billing, Claims, Refunds, VIP Support
+
+---
+
+## Technical Highlights
+
+- End-to-end Microsoft ecosystem integration
+- Natural language KPI retrieval
+- Dynamic queue filtering logic
+- Real-time operational reporting
+- Low-code automation design
+- Copilot Studio + Power Automate integration
+
+---
+
+## Challenges and Learnings
+
+Main challenge was ensuring correct mapping of filtered Excel data into Copilot Studio responses.
+
+Key learnings:
+
+- Building conversational AI agents
+- Power Automate orchestration
+- Excel Online integration
+- Variable passing between systems
+- Low-code enterprise automation design
+
+---
+
+## Future Enhancements
+
+- AI-driven KPI health scoring
+- Power BI dashboard integration
+- Trend analysis and forecasting
+- Multi-queue comparison
+- Automated escalation workflows
+
+---
+
+## Hackathon Information
+
+- **Track:** Operative  
+- **Project:** CallOps AI Operations Pack  
+- **Built With:** Copilot Studio, Power Automate, Excel Online  
+
+---
+
+## Author
+
+Olufemi Olamoyegun  
+Microsoft Power BI & Fabric Analyst Certified  
+
+---
+
+## License
+
+Built for Microsoft Agent Academy Live Hackathon 2026.
