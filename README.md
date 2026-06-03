@@ -35,8 +35,7 @@ CallOps AI Operations Pack solves this by providing a conversational AI interfac
 
 ---
 
-```markdown id="fix-arch"
-## Architecture
+`## Architecture
 
 ```text
 User Input
@@ -52,6 +51,8 @@ Filter Queue Record
 Extract KPI Metrics
    ↓
 Return Operational Report to User
+
+---
 ## Technologies Used
 
 - Microsoft Copilot Studio
