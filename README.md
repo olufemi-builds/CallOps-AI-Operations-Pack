@@ -96,7 +96,7 @@ This repository includes:
 
 Add your demo video here:
 
-👉 [Insert link]
+👉 [https://youtu.be/qxK3L4WaC7k?si=ScdNMVHunNxXao5N]
 
 ---
 
